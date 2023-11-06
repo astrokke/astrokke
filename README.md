@@ -1,6 +1,6 @@
- Hello there 👋
- Nathan Musielak
+ Hello there 👋<br>
+ Nathan Musielak<br>
 Développeur web et web mobile en recherche d'une alternance 
-![Ceci est une image](https://i.imgur.com/hBfh2nx.jpeg)
+![Ceci est une image](https://i.imgur.com/TolSJX1.gif)
 Here are some ideas to get you started:
 
