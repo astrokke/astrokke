@@ -2,7 +2,7 @@
 
 <!--
 **astrokke/astrokke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-                                     ![Ceci est une image]([https://i.imgur.com/TolSJX1.gif])
+                                     ![Ceci est un gif](https://i.imgur.com/TolSJX1.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
