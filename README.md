@@ -2,15 +2,6 @@
  
 Bienvenue sur mon profil GitHub ! 
 
-Projets Principaux
-
-Portfollio <br>
-
-Les Maestro de la Symfony : Projet realisé en cour avec  le framework Symfony.<br>
-
-Cryptosearch : Fonctionnalité de recherche de cryptomonnaies en PHP.<br>
-
-
 Compétences
 
 Développement Web : Frontend et backend, principalement en PHP(Symfony) et JavaScript(TypeScript).<br>
