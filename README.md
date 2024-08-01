@@ -4,9 +4,7 @@ Bienvenue sur mon profil GitHub !
 
 Projets Principaux
 
-Portfollio : Projet axé sur l'aprentissage de tailwind.<br>
-
-Tour-of-Heroes : Projet  pour aprendre l'utilisation de TypeScript.<br>
+Portfollio <br>
 
 Les Maestro de la Symfony : Projet realisé en cour avec  le framework Symfony.<br>
 
