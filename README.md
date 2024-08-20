@@ -13,4 +13,4 @@ Contact
 Site Web : nathan.musielak.net<br>
 
 
-Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.
+Merci d'avoir visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.
