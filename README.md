@@ -1,5 +1,6 @@
 #  Hello there :
-<br>Bienvenue sur mon profil GitHub !<br><br>Compétences<br><br>Développement Web : Frontend et backend, principalement en PHP(Symfony) et JavaScript(React).<br><br>Frameworks : SYMFONY ,LARAVEL ,REACT,ANGULARE,TAILWIND,SCSS,TYPESCRYPT.<br><br>Contact<br><br>Site Web : nathan.musielak.net<br><br>Merci d'avoir visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.<br>
+<br>Bienvenue sur mon profil GitHub !<br><br>Compétences<br><br>Développement Web
+<br>Site Web : nathan.musielak.net<br><br>Merci d'avoir visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.<br>
 
 
 ##  Socials:
