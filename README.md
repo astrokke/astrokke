@@ -1,4 +1,4 @@
-#  Hello there :
+
 <br>Bienvenue sur mon profil GitHub !<br><br>Compétences<br><br>Développement Web
 <br>Site Web : nathan.musielak.net<br><br>Merci d'avoir visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou collaboration.<br>
 
